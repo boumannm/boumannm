@@ -19,7 +19,7 @@ New idea's and random theme fluff are managed from [Canitia Xperiments](https://
 
 **The HowOnSwitch project**
 
-As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintendo Switch) and the technical side of games released on it. This led to my current project [HowOnSwitch](https://github.com/boumannm/switch). A project showing how games released on it run, what resolution, what FPS and other related specs.
+As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintendo Switch) and the technical side of games released on it. This led to my current project [HowOnSwitch](https://github.com/boumannm/switch). A project showing how games released on it run, what resolution, what FPS and other related specs. I've had a few people helping me already but more pull-requests are always welcome.
 
 **Contact me**
 
