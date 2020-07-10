@@ -1,4 +1,4 @@
-<a href="https://www.canitia.nl" target="_blank"><img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true"></a>
+<img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true">
 
 # Hi 👋
 
