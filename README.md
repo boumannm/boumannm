@@ -4,10 +4,10 @@
 
 I'm Michael. I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). 
 
-## Side project
+### Side project
 My current passion (side) project is based on the [performance/specs of Nintendo Switch games](github.com/boumannm/switch). A project i can definitely use some extra hands with.
 
-## Reaching out
+### Reaching out
 To get in contact you are probably best of contacting my Twitter. 
 <p>
 <a href="https://twitter/boumannm"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/twitter.png?raw=true"></a>
