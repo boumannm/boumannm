@@ -1,6 +1,6 @@
-<a href="https://www.canitia.nl"><img height="250" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true"></a>
+<a href="https://www.canitia.nl"><img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true"></a>
 
-#Hi 👋
+# Hi 👋
 
 I'm Michael. I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). 
 
