@@ -17,7 +17,6 @@ Some random things about me:
 
 New idea's and random theme fluff are managed from [Canitia Xperiments](https://github.com/CanitiaX). A recently promoted theme from the Xperiments branch to Canitia was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
 
-
 **The HowOnSwitch project**
 
 As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintendo Switch) and the technical side of games released on it. This led to my current project [HowOnSwitch](https://github.com/boumannm/switch). A project showing how games released on it run, what resolution, what FPS and other related specs.
