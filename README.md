@@ -2,9 +2,17 @@
 
 # Hi 👋
 
-I'm Michael. I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). Check out the Ghost theme [Larua](https://gthub.com/Canitia/larua) and it's Hugo-based couterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example. 
+I'm Michael. 
+
+I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). Check out the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based couterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example. 
+
+Other things about me: 
+- 🖥️ I enjoy all things tech.
+- 📺 I love watching anime.
+- 🎮 I love gaming.
 
 **Canitia Xperiments**
+
 New idea's and random theme fluff are managed from [Canitia Xperiments](https://github.com/CanitiaX). 
 
 **The HowOnSwitch project**
