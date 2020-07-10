@@ -1,4 +1,4 @@
-<a href="https://www.canitia.nl"><img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true"></a>
+<a href="https://www.canitia.nl" target="_blank"><img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true"></a>
 
 # Hi 👋
 
@@ -9,6 +9,8 @@ I'm Michael. I create theme's for Ghost, WordPress and Hugo which i manage throu
 <a href="https://www.linkedin.com/in/boumannm/"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
+
+## Side project
 My current passion (side) project is based on the [performance/specs of Nintendo Switch games](github.com/boumannm/switch). A project i can definitely use some extra hands with.
 
 <!--
