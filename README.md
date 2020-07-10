@@ -13,7 +13,10 @@ Some random things about me:
 
 **Canitia Xperiments**
 
-New idea's and random theme fluff are managed from [Canitia Xperiments](https://github.com/CanitiaX). 
+<a href="https://github.com/CanitiaX"><img height="35" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logox.png?raw=true"></a>
+
+New idea's and random theme fluff are managed from [Canitia Xperiments](https://github.com/CanitiaX). A recently promoted theme from the Xperiments branch to Canitia was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
+
 
 **The HowOnSwitch project**
 
