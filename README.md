@@ -6,10 +6,10 @@ I'm Michael.
 
 I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). Check out the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based couterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example. 
 
-Other things about me: 
-- 🖥️ I enjoy all things tech.
-- 📺 I love watching anime.
-- 🎮 I love gaming.
+Some random things about me: 
+- 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
+- 📺 The last anime i finished was Tower of God.
+- 🎮 The game i play most is Rocket League.
 
 **Canitia Xperiments**
 
