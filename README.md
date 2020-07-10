@@ -25,7 +25,7 @@ As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintend
 
 To get in contact you are probably best of contacting my Twitter. 
 <p>
-<a href="https://twitter/boumannm"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/twitter.png?raw=true"></a>
+<a href="https://twitter.com/boumannm"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/twitter.png?raw=true"></a>
 </p>
 
 
