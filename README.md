@@ -4,10 +4,12 @@
 
 I'm Michael. I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). 
 
-### Side project
+**The HowOnSwitch project**
+
 As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintendo Switch) and the technical side of games released on it. This led to my current project [HowOnSwitch](github.com/boumannm/switch). A project showing how games released on it run, what resolution, what FPS and other related specs.
 
-### Reaching out
+**Contact me**
+
 To get in contact you are probably best of contacting my Twitter. 
 <p>
 <a href="https://twitter/boumannm"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/twitter.png?raw=true"></a>
