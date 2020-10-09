@@ -8,7 +8,7 @@ I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](
 
 Some random things about me: 
 - 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
-- 📺 The last anime i finished was Sword Art Online: Alicization - War of Underworld 2nd Season.
+- 📺 The last anime i finished was Burn the Witch.
 - 🎮 The game i play most is Rocket League.
 
 **Canitia Xperiments**
