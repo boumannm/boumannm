@@ -4,13 +4,13 @@ I'm Michael. I'm a (web) developer.
 
 **Canitia**
 
-<a href="https://github.com/Canitia"><img height="35" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logo.png?raw=true"></a>
+<a href="https://github.com/Canitia"><img height="65" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logo.png?raw=true"></a>
 
 After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [Canitia](https://github.com/Canitia). Canitia houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example.
 
 **Canitia Xperiments**
 
-<a href="https://github.com/CanitiaX"><img height="35" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logox.png?raw=true"></a>
+<a href="https://github.com/CanitiaX"><img height="65" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logox.png?raw=true"></a>
 
 New idea's and random theme fluff are worked on under the [Canitia Xperiments](https://github.com/CanitiaX) banner. A recently promoted theme from the Xperiments branch to Canitia was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
 
