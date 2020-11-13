@@ -4,22 +4,23 @@
 
 I'm Michael. 
 
-I create theme's for Ghost, WordPress and Hugo which i manage through [Canitia](https://github.com/Canitia). Check out the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example. 
-
-Some random things about me: 
-- 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
-- 📺 The last anime i finished was Burn the Witch.
-- 🎮 The game i play most is Rocket League.
+I'm a (web) developer. With my years of experimenting in theming for different platforms i've created a platform called [Canitia](https://github.com/Canitia). Canitia houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example.
 
 **Canitia Xperiments**
 
 <a href="https://github.com/CanitiaX"><img height="35" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logox.png?raw=true"></a>
 
-New idea's and random theme fluff are managed from [Canitia Xperiments](https://github.com/CanitiaX). A recently promoted theme from the Xperiments branch to Canitia was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
+New idea's and random theme fluff are worked on under the [Canitia Xperiments](https://github.com/CanitiaX) banner. A recently promoted theme from the Xperiments branch to Canitia was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
 
 **The HowOnSwitch project**
 
 As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintendo Switch) and the technical side of games released on it. This led to my current project [HowOnSwitch](https://github.com/boumannm/switch). A project showing how games released on it run, what resolution, what FPS and other related specs. I've had a few people helping me already but more pull-requests are always welcome.
+
+**About me**
+Some random things about me: 
+- 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
+- 📺 The last anime i finished was Burn the Witch.
+- 🎮 The game i play most is Rocket League.
 
 **Contact me**
 
