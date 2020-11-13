@@ -4,7 +4,7 @@ I'm Michael. I'm a (web) developer.
 
 <img height="auto" width="100%" src="https://github.com/boumannm/boumannm/blob/master/icon/banner.png?raw=true">
 
-With my years of experimenting with creating themes for different platforms i decided i had to make a central platform to manage my workings. Meet [Canitia](https://github.com/Canitia). Canitia houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example.
+With my years of experimenting with creating themes for different platforms i decided i had to make a central platform to manage my projects. Meet [Canitia](https://github.com/Canitia). Canitia houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example.
 
 **Canitia Xperiments**
 
