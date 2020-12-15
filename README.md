@@ -6,13 +6,7 @@ I'm Michael. I'm a (web) developer.
 
 <a href="https://github.com/Canitia"><img height="65" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logo.png?raw=true"></a>
 
-After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [CanitiaThemes](https://github.com/Canitia). CanitiaThemes houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo) for example.
-
-**Canitia Xperiments**
-
-<a href="https://github.com/CanitiaX"><img height="65" align="left" src="https://github.com/boumannm/boumannm/blob/master/icon/logox.png?raw=true"></a>
-
-New idea's and random theme fluff are worked on under the [CanitiaThemes Xperiments](https://github.com/CanitiaX) banner. A recently promoted theme from the Xperiments branch to CanitiaThemes was [Pharos](https://github.com/Canitia/pharos), which started as a experiment but ended up as a simple and fast theme for Hugo.
+After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [CanitiaThemes](https://github.com/Canitia). CanitiaThemes houses all kinds of themes like the Ghost theme [Larua](https://github.com/Canitia/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/Canitia/larua-hugo).
 
 **The HowOnSwitch project**
 
@@ -21,15 +15,8 @@ As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintend
 **About me**
 Some random things about me: 
 - 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
-- 📺 The last anime i finished was Burn the Witch.
+- 📺 The last anime i finished was Enen no Shouboutai: Ni no Shou.
 - 🎮 The game i play most is Rocket League.
-
-**Contact me**
-
-To get in contact you are probably best of contacting my Twitter. 
-<p>
-<a href="https://twitter.com/boumannm"><img height="30" src="https://github.com/boumannm/boumannm/blob/master/icon/twitter.png?raw=true"></a>
-</p>
 
 
 <!--
