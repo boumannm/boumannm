@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Michael. I'm a (web) developer. 
+I'm Michael. 
 
 **CanitiaThemes**
 
