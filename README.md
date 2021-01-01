@@ -14,7 +14,7 @@ As a tech-geek and a gamer i wanted to combine my latest gaming toy (the Nintend
 
 **About me**
 Some random things about me: 
-- 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
+- 🖥️  My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
 - 📺 The last anime i finished was Haikyuu! To the Top 2nd Season.
 - 🎮 The game i play most is Rocket League.
 
