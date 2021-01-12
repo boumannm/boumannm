@@ -4,9 +4,9 @@ I'm Michael.
 
 **PixelatedDeveloper**
 
-<a href="https://github.com/pixelateddeveloper"><img height="65" align="left" src="https://github.com/PixelatedDeveloper/PixelatedDeveloper/raw/master/icon/logo.png"></a>
+<a href="https://github.com/pixelateddeveloper"><img height="45" align="left" src="https://github.com/PixelatedDeveloper/PixelatedDeveloper/raw/master/icon/logo.png"></a>
 
-After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [PixelatedDeveloper](https://github.com/pixelateddeveloper). <br /><br />
+After years of creating themes i decided i needed a central 'brand' manage my projects. Meet [PixelatedDeveloper](https://github.com/pixelateddeveloper). <br />
 
 **The HowOnSwitch project**
 
