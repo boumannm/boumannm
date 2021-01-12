@@ -4,7 +4,7 @@ I'm Michael.
 
 ## PixelatedDeveloper
 
-<a href="https://github.com/pixelateddeveloper"><img height="45" align="left" src="https://github.com/PixelatedDeveloper/PixelatedDeveloper/raw/master/icon/logo.png"></a>
+<a href="https://github.com/pixelateddeveloper"><img height="115" align="right" src="https://github.com/PixelatedDeveloper/PixelatedDeveloper/raw/master/icon/logo.png"></a>
 
 After years of creating templates and themes i needed a central 'brand' to manage my projects. Meet [PixelatedDeveloper](https://github.com/pixelateddeveloper). PixelatedDeveloper creates (mostly) open-source themes for many platforms including Ghost, Hugo, Jekyll and WordPress. New in late 2020 are Premium theme's which get a bit more attention and support. The first Premium theme is yet to fully launch, but it's called Zen (or 'Project Zen' in my dev work).
 
