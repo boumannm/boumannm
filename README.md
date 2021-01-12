@@ -6,7 +6,7 @@ I'm Michael.
 
 <a href="https://github.com/pixelateddeveloper"><img height="65" align="left" src="https://github.com/PixelatedDeveloper/PixelatedDeveloper/raw/master/icon/logo.png"></a>
 
-After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [PixelatedDeveloper](https://github.com/pixelateddeveloper). PixelatedDeveloper houses all kinds of themes like the Ghost theme [Larua](https://github.com/PixelatedDeveloper/larua) and it's Hugo-based counterpart [Larua-Hugo](https://github.com/PixelatedDeveloper/larua-hugo).
+After years of creating themes and barely being able to manage them i decided i needed a central platform manage my projects. Meet [PixelatedDeveloper](https://github.com/pixelateddeveloper). 
 
 **The HowOnSwitch project**
 
