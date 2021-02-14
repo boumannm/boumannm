@@ -3,9 +3,9 @@
 I'm Michael. 
 
 ## Themes and templates
-<a href="https://github.com/pixelateddeveloper"><img height="115" align="right" src="https://avatars.githubusercontent.com/u/45669757?s=460&u=41b04c56ffe7e09a12c150c9d9b0dda4ab1ffab0&v=4"></a>
+<a href="https://github.com/pixelateddeveloper"><img height="80" align="right" src="https://avatars.githubusercontent.com/u/45669757?s=460&u=41b04c56ffe7e09a12c150c9d9b0dda4ab1ffab0&v=4"></a>
 
-I create (mostly) open-source themes and templates for platforms including Ghost, Hugo, Jekyll and WordPress.
+My web development work focuses on creating (mostly) open-source themes and templates for a multitude of platforms including Ghost, Hugo, Jekyll and WordPress.
 
 
 ## About me
