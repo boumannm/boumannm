@@ -2,7 +2,9 @@
 
 I'm Michael. 
 
-My web development work focuses on creating (mostly) open-source themes and templates for a multitude of platforms including Ghost, Hugo, Jekyll and WordPress.
+I develop themes and templates for a wide variety of platforms including Ghost, Hugo, Jekyll and WordPress. Recently my work has focused on the Ghost platform for which i release themes under the SpookThemes banner.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K245V5N)
 
 ## About me
 Some random things about me: 
