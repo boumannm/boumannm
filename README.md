@@ -1,8 +1,11 @@
 # Hi 👋
 
-I'm Michael. 
+I'm Michael.
 
-I'm a theme developer creating themes and templates for platforms including Ghost, Hugo, Jekyll and WordPress. Recently my work has focused on the Ghost platform for which i release themes under the SpookThemes brand.
+I've been a tech enthusiast ever since i got my first computer somewhere around 1998. You know ... the early cable internet days where Pentium 3's reached 1GHz. Ever since then i 
+graduated as a System Administrator that specialised in Network Engineering. My eagerness to learn everything tech made my knowledge span a wide array of topics like managing Windows and Linux Servers, writing SQL scripts, fixing and troubleshooting work and creating themes for a variety of platforms.
+
+I am currently creating experiences for the Ghost CMS platform under the [SpookThemes](https://spookthemes.com) banner.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K245V5N)
 
