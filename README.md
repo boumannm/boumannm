@@ -11,6 +11,6 @@ I am currently creating experiences for the Ghost CMS platform under the [SpookT
 ## About me
 Random things about me: 
 - 🖥️ My main PC has a Ryzen 2600, 16GB RAM and a Vega 56. 
-- 📺 The last anime i finished was JuJutsu Kaisen 🔥🔥.
+- 📺 The last anime i finished was Tensura Nikki: Tensei shitara Slime Datta Ken.
 - 🎮 The game i play most is Rocket League.
 
