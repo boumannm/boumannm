@@ -6,7 +6,7 @@ I'm a Tech Enthusiast creating themes for a variety of platforms including Ghost
 
 - 🧪 Creating new experiences for a variety of platforms and products.
 - 🖥️ Development rig has a Ryzen 2600, 16GB RAM and a Vega 56. 
-- 📺 The last anime i finished was Tensura Nikki: Tensei shitara Slime Datta Ken.
+- 📺 The last anime i finished was Nomad: Megalo Box 2.
 - 🎮 The game i play most is Rocket League.
 
 
